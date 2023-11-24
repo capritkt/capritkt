@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Matheo from France<br><br>- 🔭 I’m currently a student at EPITA Paris.<br>- 🧐 Interested in everything about Automotive and IT</p>
+<p align="left">I'm Matheo from France and I'm passionated about Automobile and IT <br><br>- 🔭 I’m currently a student at EPITA Paris.<br>- 🧐 Interested in everything about Automotive and IT</p>
 
 ###
 
